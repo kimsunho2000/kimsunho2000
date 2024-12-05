@@ -7,6 +7,4 @@
 # PS
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ksh2000)](https://solved.ac/ksh2000)
 
-#Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={kimsunho2000})
 
