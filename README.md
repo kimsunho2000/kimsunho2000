@@ -39,7 +39,6 @@
 
 **DevOps / Tools**  
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # PS
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ksh2000)](https://solved.ac/ksh2000)
