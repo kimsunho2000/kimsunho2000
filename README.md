@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hello!%20I'm%20Sunho%20%F0%9F%92%BB&fontSize=70&fontAlignY=38&animation=fadeIn" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=250&section=header&text=Hello!%20I'm%20Sunho%20%F0%9F%92%BB&fontSize=70&fontAlignY=38&animation=fadeIn" alt="Header"/>
 
 ## 👋 About Me
 <p align="center">
