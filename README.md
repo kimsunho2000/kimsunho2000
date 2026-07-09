@@ -9,9 +9,7 @@
 
 <p align="center">
   Java와 Spring Boot를 주력으로 하는 백엔드 개발자 지망생 <strong>김선호</strong>입니다.<br>
-  새로운 기술을 배우고 직접 적용해보는 걸 좋아하고, 꾸준히 코드를 작성하며 실력을 쌓아가고 있습니다.<br><br>
-  오픈소스 프로젝트(Kakao Actionbase)에 기여하며 협업 경험을 쌓았고,<br>
-  여러 개인 프로젝트를 통해 백엔드 전반을 조금씩 넓혀가는 중입니다.
+  새로운 기술을 배우고 직접 적용해보는 걸 좋아하고, 꾸준히 코드를 작성하며 실력을 쌓아가고 있습니다.<br>
 </p>
 
 <br>
@@ -36,19 +34,19 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>💊 얼마닥</h3>
       <p>비급여 진료비를 병원별로 비교해주는 의료비 비교 서비스</p>
       <ul>
         <li>Gemini API로 비정형 진료 데이터 파싱 및 정규화</li>
-        <li>Phase 2 진행 중 — 검색/추천 로직 고도화</li>
+        <li>JDBC Batch 적용으로 배치 처리 시간 <strong>30분 → 5분</strong> 단축</li>
       </ul>
       <p>
         <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <strong>기술 스택:</strong> Java, Spring Boot, Gemini API
+      <strong>기술 스택:</strong> Java, Spring Boot, Spring Security, Gemini API
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🤖 면도 (Myundo)</h3>
       <p>AI 기반 모의면접 및 답변 피드백 웹 서비스</p>
       <ul>
@@ -60,19 +58,24 @@
         <a href="https://myundo.dev/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
         <a href="https://github.com/KNU-Capstone-Design/KNU_Capstone_Backend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <strong>기술 스택:</strong> Node.js, Express, MongoDB, Docker
+      <strong>기술 스택:</strong> Node.js, Express, MongoDB, Redis, Docker
     </td>
-    <td width="33%" valign="top">
+  </tr>
+</table>
+
+<br>
+
+## 🌱 Open Source Contribution
+
+<table width="100%">
+  <tr>
+    <td align="center">
       <h3>🔗 Kakao Actionbase</h3>
-      <p>오픈소스 코드베이스 분석 및 성능 개선 컨트리뷰션</p>
-      <ul>
-        <li>JDBC Batch 적용으로 배치 처리 시간 <strong>30분 → 5분</strong> 단축</li>
-        <li>코드 리뷰를 통한 실전 협업 경험</li>
-      </ul>
+      <p>이슈를 살펴보고 테스트 커버리지가 부족한 부분을 찾아 테스트 케이스를 작성해 기여했습니다.</p>
       <p>
         <a href="https://github.com/kakao/ActionBase/pull/251"><img src="https://img.shields.io/badge/PR%20%23251-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <strong>기술 스택:</strong> Java, Spring Boot, JDBC
+      <strong>기술 스택:</strong> Kotlin, JUnit
     </td>
   </tr>
 </table>
